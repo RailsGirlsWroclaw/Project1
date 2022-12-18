@@ -18,5 +18,6 @@ module Workspace
     #
     # config.time_zone = "Central Time (US & Canada)"
     # config.eager_load_paths << Rails.root.join("extras")
+    config.hosts << "sofiahtml-ominous-dollop-xxp796vp9p9cvvrx-3000.preview.app.github.dev"
   end
 end
